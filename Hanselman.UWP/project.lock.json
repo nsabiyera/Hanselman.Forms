@@ -28217,20 +28217,20 @@
     "UAP,Version=v10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\James Montemagno\\.nuget\\packages\\": {}
+    "C:\\Users\\rnsab\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Hanselman.Forms\\Hanselman.UWP\\Hanselman.UWP.csproj",
+      "projectUniqueName": "C:\\Work\\Hanselman\\Hanselman.Forms\\Hanselman.UWP\\Hanselman.UWP.csproj",
       "projectName": "Hanselman.UWP",
-      "projectPath": "C:\\GitHub\\Hanselman.Forms\\Hanselman.UWP\\Hanselman.UWP.csproj",
-      "projectJsonPath": "C:\\GitHub\\Hanselman.Forms\\Hanselman.UWP\\project.json",
+      "projectPath": "C:\\Work\\Hanselman\\Hanselman.Forms\\Hanselman.UWP\\Hanselman.UWP.csproj",
+      "projectJsonPath": "C:\\Work\\Hanselman\\Hanselman.Forms\\Hanselman.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\GitHub\\Hanselman.Forms\\Hanselman.Portable\\Hanselman.csproj": {
-              "projectPath": "C:\\GitHub\\Hanselman.Forms\\Hanselman.Portable\\Hanselman.csproj"
+            "C:\\Work\\Hanselman\\Hanselman.Forms\\Hanselman.Portable\\Hanselman.csproj": {
+              "projectPath": "C:\\Work\\Hanselman\\Hanselman.Forms\\Hanselman.Portable\\Hanselman.csproj"
             }
           }
         }
@@ -28239,7 +28239,7 @@
     "dependencies": {
       "LinqToTwitter": "3.1.2",
       "Microsoft.Net.Http": "2.2.29",
-      "Microsoft.NETCore.UniversalWindowsPlatform": "[5.3.3, )",
+      "Microsoft.NETCore.UniversalWindowsPlatform": "5.3.3",
       "Newtonsoft.Json": "10.0.2",
       "Plugin.MediaManager.Forms": "0.4.0",
       "Plugin.Share": "6.1.0.19-beta",

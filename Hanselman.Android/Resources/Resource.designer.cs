@@ -716,13 +716,7 @@ namespace HanselmanAndroid
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.abc_textfield_search_material = global::HanselmanAndroid.Resource.Drawable.abc_textfield_search_material;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.abc_vector_test = global::HanselmanAndroid.Resource.Drawable.abc_vector_test;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_hide_password = global::HanselmanAndroid.Resource.Drawable.avd_hide_password;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_hide_password_1 = global::HanselmanAndroid.Resource.Drawable.avd_hide_password_1;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_hide_password_2 = global::HanselmanAndroid.Resource.Drawable.avd_hide_password_2;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_hide_password_3 = global::HanselmanAndroid.Resource.Drawable.avd_hide_password_3;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_show_password = global::HanselmanAndroid.Resource.Drawable.avd_show_password;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_show_password_1 = global::HanselmanAndroid.Resource.Drawable.avd_show_password_1;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_show_password_2 = global::HanselmanAndroid.Resource.Drawable.avd_show_password_2;
-			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.avd_show_password_3 = global::HanselmanAndroid.Resource.Drawable.avd_show_password_3;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.design_bottom_navigation_item_background = global::HanselmanAndroid.Resource.Drawable.design_bottom_navigation_item_background;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.design_fab_background = global::HanselmanAndroid.Resource.Drawable.design_fab_background;
 			global::Plugin.MediaManager.Forms.Android.Resource.Drawable.design_ic_visibility = global::HanselmanAndroid.Resource.Drawable.design_ic_visibility;
@@ -4302,26 +4296,8 @@ namespace HanselmanAndroid
 			// aapt resource value: 0x7f020054
 			public const int avd_hide_password = 2130837588;
 			
-			// aapt resource value: 0x7f020124
-			public const int avd_hide_password_1 = 2130837796;
-			
-			// aapt resource value: 0x7f020125
-			public const int avd_hide_password_2 = 2130837797;
-			
-			// aapt resource value: 0x7f020126
-			public const int avd_hide_password_3 = 2130837798;
-			
 			// aapt resource value: 0x7f020055
 			public const int avd_show_password = 2130837589;
-			
-			// aapt resource value: 0x7f020127
-			public const int avd_show_password_1 = 2130837799;
-			
-			// aapt resource value: 0x7f020128
-			public const int avd_show_password_2 = 2130837800;
-			
-			// aapt resource value: 0x7f020129
-			public const int avd_show_password_3 = 2130837801;
 			
 			// aapt resource value: 0x7f020056
 			public const int blog = 2130837590;
@@ -6003,41 +5979,41 @@ namespace HanselmanAndroid
 		public partial class Style
 		{
 			
+			// aapt resource value: 0x7f0c00ac
+			public const int AlertDialog_AppCompat = 2131493036;
+			
+			// aapt resource value: 0x7f0c00ad
+			public const int AlertDialog_AppCompat_Light = 2131493037;
+			
 			// aapt resource value: 0x7f0c00ae
-			public const int AlertDialog_AppCompat = 2131493038;
+			public const int Animation_AppCompat_Dialog = 2131493038;
 			
 			// aapt resource value: 0x7f0c00af
-			public const int AlertDialog_AppCompat_Light = 2131493039;
-			
-			// aapt resource value: 0x7f0c00b0
-			public const int Animation_AppCompat_Dialog = 2131493040;
-			
-			// aapt resource value: 0x7f0c00b1
-			public const int Animation_AppCompat_DropDownUp = 2131493041;
+			public const int Animation_AppCompat_DropDownUp = 2131493039;
 			
 			// aapt resource value: 0x7f0c0170
 			public const int Animation_Design_BottomSheetDialog = 2131493232;
 			
+			// aapt resource value: 0x7f0c00b0
+			public const int Base_AlertDialog_AppCompat = 2131493040;
+			
+			// aapt resource value: 0x7f0c00b1
+			public const int Base_AlertDialog_AppCompat_Light = 2131493041;
+			
 			// aapt resource value: 0x7f0c00b2
-			public const int Base_AlertDialog_AppCompat = 2131493042;
+			public const int Base_Animation_AppCompat_Dialog = 2131493042;
 			
 			// aapt resource value: 0x7f0c00b3
-			public const int Base_AlertDialog_AppCompat_Light = 2131493043;
-			
-			// aapt resource value: 0x7f0c00b4
-			public const int Base_Animation_AppCompat_Dialog = 2131493044;
-			
-			// aapt resource value: 0x7f0c00b5
-			public const int Base_Animation_AppCompat_DropDownUp = 2131493045;
+			public const int Base_Animation_AppCompat_DropDownUp = 2131493043;
 			
 			// aapt resource value: 0x7f0c000c
 			public const int Base_CardView = 2131492876;
 			
-			// aapt resource value: 0x7f0c00b6
-			public const int Base_DialogWindowTitle_AppCompat = 2131493046;
+			// aapt resource value: 0x7f0c00b4
+			public const int Base_DialogWindowTitle_AppCompat = 2131493044;
 			
-			// aapt resource value: 0x7f0c00b7
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131493047;
+			// aapt resource value: 0x7f0c00b5
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131493045;
 			
 			// aapt resource value: 0x7f0c004e
 			public const int Base_TextAppearance_AppCompat = 2131492942;
@@ -6093,8 +6069,8 @@ namespace HanselmanAndroid
 			// aapt resource value: 0x7f0c005b
 			public const int Base_TextAppearance_AppCompat_Menu = 2131492955;
 			
-			// aapt resource value: 0x7f0c00b8
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131493048;
+			// aapt resource value: 0x7f0c00b6
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131493046;
 			
 			// aapt resource value: 0x7f0c005c
 			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131492956;
@@ -6144,11 +6120,11 @@ namespace HanselmanAndroid
 			// aapt resource value: 0x7f0c0067
 			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131492967;
 			
-			// aapt resource value: 0x7f0c00aa
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131493034;
+			// aapt resource value: 0x7f0c00b7
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131493047;
 			
-			// aapt resource value: 0x7f0c00ab
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131493035;
+			// aapt resource value: 0x7f0c00b8
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131493048;
 			
 			// aapt resource value: 0x7f0c00a4
 			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131493028;
@@ -6531,11 +6507,11 @@ namespace HanselmanAndroid
 			// aapt resource value: 0x7f0c0098
 			public const int Platform_V21_AppCompat_Light = 2131493016;
 			
-			// aapt resource value: 0x7f0c00ac
-			public const int Platform_V25_AppCompat = 2131493036;
+			// aapt resource value: 0x7f0c00aa
+			public const int Platform_V25_AppCompat = 2131493034;
 			
-			// aapt resource value: 0x7f0c00ad
-			public const int Platform_V25_AppCompat_Light = 2131493037;
+			// aapt resource value: 0x7f0c00ab
+			public const int Platform_V25_AppCompat_Light = 2131493035;
 			
 			// aapt resource value: 0x7f0c0031
 			public const int Platform_Widget_AppCompat_Spinner = 2131492913;
